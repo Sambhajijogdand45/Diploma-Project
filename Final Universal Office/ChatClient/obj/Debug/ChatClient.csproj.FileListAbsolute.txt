@@ -1,0 +1,49 @@
+D:\VISHAL BHOSALE\Chat app\SocketChatBF\DataFiles\C#\VS7 Projects\ChatClient\obj\Debug\ChatClient.exe
+D:\VISHAL BHOSALE\Chat app\SocketChatBF\DataFiles\C#\VS7 Projects\ChatClient\obj\Debug\ChatClient.pdb
+D:\VISHAL BHOSALE\Chat app\SocketChatBF\DataFiles\C#\VS7 Projects\ChatClient\bin\Debug\ChatClient.exe
+D:\VISHAL BHOSALE\Chat app\SocketChatBF\DataFiles\C#\VS7 Projects\ChatClient\bin\Debug\ChatClient.pdb
+D:\VISHAL BHOSALE\Chat app\SocketChatBF\DataFiles\C#\VS7 Projects\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Chat app\SocketChatBF\DataFiles\C#\VS7 Projects\ChatClient\obj\Debug\ChatClient.ChatClientForm.resources
+D:\VISHAL BHOSALE\Chat app\SocketChatBF\DataFiles\C#\VS7 Projects\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Projects Backup\Chat app WINDOWS\Chat app WINDOWS\ChatClient\obj\Debug\ChatClient.exe
+D:\VISHAL BHOSALE\Projects Backup\Chat app WINDOWS\Chat app WINDOWS\ChatClient\obj\Debug\ChatClient.pdb
+D:\VISHAL BHOSALE\Projects Backup\Chat app WINDOWS\Chat app WINDOWS\ChatClient\bin\Debug\ChatClient.exe
+D:\VISHAL BHOSALE\Projects Backup\Chat app WINDOWS\Chat app WINDOWS\ChatClient\bin\Debug\ChatClient.pdb
+D:\VISHAL BHOSALE\Projects Backup\Chat app WINDOWS\Chat app WINDOWS\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Projects Backup\Chat app WINDOWS\Chat app WINDOWS\ChatClient\obj\Debug\ChatClient.ChatClientForm.resources
+D:\VISHAL BHOSALE\Projects Backup\Chat app WINDOWS\Chat app WINDOWS\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\ChatClient\bin\Debug\ChatClient.exe
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\ChatClient\bin\Debug\ChatClient.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.ChatClientForm.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.exe
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\ChatClient\bin\Debug\ChatClient.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\ChatClient\bin\Debug\ChatClient.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.ChatClientForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\ChatClient\bin\Debug\ChatClient.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\ChatClient\bin\Debug\ChatClient.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.ChatClientForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\SHREE\Desktop\New folder\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\SHREE\Desktop\New folder\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\SHREE\Desktop\New folder\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHREE\Desktop\New folder\ChatClient\obj\Debug\ChatClient.ChatClientForm.resources
+C:\Users\SHREE\Desktop\New folder\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\SHREE\Desktop\New folder\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\SHREE\Desktop\New folder\ChatClient\obj\Debug\ChatClient.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\ChatClient\bin\Debug\ChatClient.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\ChatClient\bin\Debug\ChatClient.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\ChatClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\ChatClient\obj\Debug\ChatClient.ChatClientForm.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\ChatClient\obj\Debug\ChatClient.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\ChatClient\obj\Debug\ChatClient.pdb

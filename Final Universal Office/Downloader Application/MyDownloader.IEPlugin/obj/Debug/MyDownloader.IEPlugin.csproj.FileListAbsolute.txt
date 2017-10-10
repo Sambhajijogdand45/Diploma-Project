@@ -1,0 +1,156 @@
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\bin\Debug\register.reg
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\bin\Debug\register.bat
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+D:\Universal Edit\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.reg
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\bin\Debug\register.bat
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.Cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb

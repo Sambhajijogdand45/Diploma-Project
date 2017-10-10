@@ -1,0 +1,586 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{488BAD4A-18C7-4954-ACC8-FC7B4A31F6F7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>NLSFT_WB.My.MyApplication</StartupObject>
+    <RootNamespace>NLSFT_WB</RootNamespace>
+    <AssemblyName>NLSFT_WB</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>1291611549_Globe.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>http://localhost/Ie7Clone/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>NLSFT_WB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>NLSFT_WB.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="ClassFiles\AppManager.vb" />
+    <Compile Include="ClassFiles\exBrowser.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ClassFiles\tFileInfo.vb" />
+    <Compile Include="ClassFiles\ListItem.vb" />
+    <Compile Include="ClassFiles\Page2Image.vb" />
+    <Compile Include="ClassFiles\ScreenCap.vb">
+    </Compile>
+    <Compile Include="ClassFiles\tlxIni.vb" />
+    <Compile Include="Forms\frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAddRSS.Designer.vb">
+      <DependentUpon>frmAddRSS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAddRSS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAddSearchProvider.Designer.vb">
+      <DependentUpon>frmAddSearchProvider.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAddSearchProvider.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmAllBrowsers.Designer.vb">
+      <DependentUpon>frmAllBrowsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmAllBrowsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmBrowser.Designer.vb">
+      <DependentUpon>frmBrowser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmBrowser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmCookieViewer.Designer.vb">
+      <DependentUpon>frmCookieViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmCookieViewer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDetectRSS.Designer.vb">
+      <DependentUpon>frmDetectRSS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDetectRSS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDocExplorer.Designer.vb">
+      <DependentUpon>frmDocExplorer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDocExplorer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmDownload.Designer.vb">
+      <DependentUpon>frmDownload.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmDownload.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmError.Designer.vb">
+      <DependentUpon>frmError.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmError.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmHistory.Designer.vb">
+      <DependentUpon>frmHistory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmHistory.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmImage.Designer.vb">
+      <DependentUpon>frmImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmPhising.Designer.vb">
+      <DependentUpon>frmPhising.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmPhising.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmProperties.Designer.vb">
+      <DependentUpon>frmProperties.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmProperties.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmRSS.designer.vb">
+      <DependentUpon>frmRSS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmRSS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmScrapeImages.Designer.vb">
+      <DependentUpon>frmScrapeImages.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmScrapeImages.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSecInfo.Designer.vb">
+      <DependentUpon>frmSecInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSecInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmSettings.Designer.vb">
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="History\Class1.vb" />
+    <Compile Include="History\Module1.vb" />
+    <Compile Include="MDITabs\ControlButton.designer.vb">
+      <DependentUpon>ControlButton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDITabs\ControlButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="MDITabs\TabControl.designer.vb">
+      <DependentUpon>TabControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDITabs\TabControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MDITabs\TabPage.designer.vb">
+      <DependentUpon>TabPage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDITabs\TabPage.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Settings.vb" />
+    <Compile Include="User Controls\CapBrowser.Designer.vb">
+      <DependentUpon>CapBrowser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\CapBrowser.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\InfoBar.Designer.vb">
+      <DependentUpon>InfoBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\InfoBar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="User Controls\Ruler.Designer.vb">
+      <DependentUpon>Ruler.vb</DependentUpon>
+    </Compile>
+    <Compile Include="User Controls\Ruler.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\frmAbout.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAddRSS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAddRSS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAddSearchProvider.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAddSearchProvider.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmAllBrowsers.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmAllBrowsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmBrowser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmBrowser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmCookieViewer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmCookieViewer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDetectRSS.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDetectRSS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDocExplorer.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDocExplorer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmDownload.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmDownload.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmError.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmError.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmHistory.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmHistory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmImage.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmPhising.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmPhising.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmProperties.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmProperties.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmRSS.resx">
+      <DependentUpon>frmRSS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmScrapeImages.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmScrapeImages.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSecInfo.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSecInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmSettings.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>frmSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDITabs\TabControl.resx">
+      <DependentUpon>TabControl.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\CapBrowser.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>CapBrowser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\InfoBar.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>InfoBar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User Controls\Ruler.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Ruler.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NoPopUp.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\but_print_l.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\it_search0.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Globe.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busy.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tick.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\i_print.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wrench_orange.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\busy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\719.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\173_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\191_21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Star.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\favDock.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Star2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addfav.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tab_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\553_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LockOpen.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Lock.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Windows Pop-up Blocked.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Blocked.htm" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\seqarch_lg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shieldQ.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Stop16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shieldQ16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cut.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\page161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Design Mode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\218_3.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bulb16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Scratch\Google.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Google.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Resources\cp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LargeGlobe.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BackgroundOffWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1feed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1DocExp.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Open.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\folder3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white_bg1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Properties.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popBlocked.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\popallowed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dl_Largepng.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\feed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1291611549_Globe.ico" />
+    <Content Include="MDITabs\TabCredit.txt" />
+    <None Include="Resources\StartPage.htm" />
+    <None Include="Resources\delCookie.png" />
+    <None Include="Resources\cookie.png" />
+    <None Include="Resources\allwindows2.png" />
+    <None Include="Resources\allwindows.png" />
+    <None Include="Resources\shield_exc16.png" />
+    <None Include="Resources\shield_exc.png" />
+    <None Include="Resources\StartPage.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,302 @@
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\U-O PCP\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\U-O PCP\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\U-O PCP\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\Universal Edit\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\TabStrip.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.Cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.App\obj\Debug\MyDownloader.App.pdb

@@ -1,0 +1,16 @@
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\ResolveAssemblyReference.cache
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\Ribbonpad.BalloonSearch.resources
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\Ribbonpad.ColorPicker.resources
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\Ribbonpad.frmAbout.resources
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\Ribbonpad.frmDocument.resources
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\Ribbonpad.frmMain.resources
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\Ribbonpad.Properties.Resources.resources
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\RibbonPad.csproj.GenerateResource.Cache
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\bin\Debug\RibbonPad.exe
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\bin\Debug\RibbonPad.pdb
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\RibbonPad.exe
+C:\NELSOFT\Important Data\SamplesNetBar\RibbonPad\CS\obj\Debug\RibbonPad.pdb
+C:\NELSOFT\Important Data\Ribbon controls\obj\Debug\RibbonPad.exe
+C:\NELSOFT\Important Data\Ribbon controls\obj\Debug\RibbonPad.pdb
+C:\NELSOFT\Important Data\Universal Editor\obj\Debug\RibbonPad.pdb

@@ -1,0 +1,120 @@
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+D:\NELSOFT\PROJECTS STUDENT\2011-2012\MyDownloader_src\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+D:\Universal Edit\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+D:\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+C:\Users\SHREE\Desktop\New folder\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Tests.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Core.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Downloader Application\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.pdb

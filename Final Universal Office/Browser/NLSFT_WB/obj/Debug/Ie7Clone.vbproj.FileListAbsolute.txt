@@ -1,0 +1,66 @@
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\Ie7Clone.exe.config
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\Ie7Clone.exe
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\Ie7Clone.pdb
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\Ie7Clone.xml
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmAbout.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmAddRSS.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmAddSearchProvider.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmAllBrowsers.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmBrowser.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmCookieViewer.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmDetectRSS.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmDocExplorer.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmDownload.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmError.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmHistory.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmImage.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmMain.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmPhising.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmProperties.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmRSS.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmScrapeImages.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmSecInfo.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmSettings.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.TabControl.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.Resources.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.CapBrowser.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.InfoBar.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.Ruler.resources
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.exe
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.xml
+C:\Documents and Settings\Nilesh\Desktop\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.pdb
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\Ie7Clone.exe.config
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.exe
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.xml
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.pdb
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\Ie7Clone.exe
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\Ie7Clone.pdb
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\Ie7Clone.xml
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmAbout.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmAddRSS.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmAddSearchProvider.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmAllBrowsers.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmBrowser.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmCookieViewer.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmDetectRSS.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmDocExplorer.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmDownload.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmError.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmHistory.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmImage.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmMain.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmPhising.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmProperties.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmRSS.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmScrapeImages.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmSecInfo.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.frmSettings.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.TabControl.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.Resources.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.CapBrowser.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.InfoBar.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.Ruler.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\Ie7Clone.vbproj.GenerateResource.Cache

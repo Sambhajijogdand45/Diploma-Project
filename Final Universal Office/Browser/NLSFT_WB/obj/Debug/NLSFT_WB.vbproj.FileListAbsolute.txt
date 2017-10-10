@@ -1,0 +1,404 @@
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\NLSFT_WB.exe.config
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\ResolveAssemblyReference.cache
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmAbout.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmAddRSS.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmBrowser.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmDownload.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmError.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmHistory.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmImage.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmMain.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmPhising.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmProperties.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmRSS.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmSecInfo.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.frmSettings.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.TabControl.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.Resources.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.CapBrowser.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.InfoBar.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.Ruler.resources
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\NLSFT_WB.exe
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\NLSFT_WB.pdb
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\bin\Debug\NLSFT_WB.xml
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.exe
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.xml
+D:\Downloads\IE7_Clone_VS2005_Browser_src\Ie7Clone\obj\Debug\NLSFT_WB.pdb
+D:\Downloads\IE7_Clone_VS2005_Browser_src\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+D:\Downloads\IE7_Clone_VS2005_Browser_src\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+D:\Downloads\IE7_Clone_VS2005_Browser_src\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+D:\Downloads\IE7_Clone_VS2005_Browser_src\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+M:\Third Year Project\Modules\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+M:\Third Year Project\Modules\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+M:\Third Year Project\Modules\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+M:\Third Year Project\Modules\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+D:\Universal Edit\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+D:\Universal Edit\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+D:\Universal Edit\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+D:\Universal Edit\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+D:\Universal Edit\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+D:\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+C:\Users\SHREE\Desktop\New folder\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe.config
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\bin\Debug\NLSFT_WB.xml
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAbout.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddRSS.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAddSearchProvider.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmAllBrowsers.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmBrowser.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmCookieViewer.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDetectRSS.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDocExplorer.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmDownload.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmError.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmHistory.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmImage.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmMain.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmPhising.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmProperties.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmRSS.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmScrapeImages.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSecInfo.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.frmSettings.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.TabControl.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Resources.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.CapBrowser.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.InfoBar.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.Ruler.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.vbproj.GenerateResource.Cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.xml
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\Browser\NLSFT_WB\obj\Debug\NLSFT_WB.pdb

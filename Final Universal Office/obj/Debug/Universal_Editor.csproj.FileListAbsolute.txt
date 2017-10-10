@@ -1,0 +1,699 @@
+H:\Universal Editor\obj\Debug\RibbonPad.pdb
+H:\Universal Editor\bin\Debug\RibbonPad.exe
+H:\Universal Editor\bin\Debug\RibbonPad.pdb
+H:\Universal Editor\obj\Debug\ResolveAssemblyReference.cache
+H:\Universal Editor\obj\Debug\Ribbonpad.BalloonSearch.resources
+H:\Universal Editor\obj\Debug\Ribbonpad.ColorPicker.resources
+H:\Universal Editor\obj\Debug\Ribbonpad.frmAbout.resources
+H:\Universal Editor\obj\Debug\Ribbonpad.frmDocument.resources
+H:\Universal Editor\obj\Debug\Ribbonpad.frmMain.resources
+H:\Universal Editor\obj\Debug\Ribbonpad.Properties.Resources.resources
+H:\Universal Editor\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+H:\Universal Editor\obj\Debug\RibbonPad.exe
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\RibbonPad.exe
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\RibbonPad.pdb
+C:\Users\Shree\Desktop\Universal Editor\bin\Debug\RibbonPad.exe
+C:\Users\Shree\Desktop\Universal Editor\bin\Debug\RibbonPad.pdb
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\Ribbonpad.BalloonSearch.resources
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\Ribbonpad.ColorPicker.resources
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\Ribbonpad.frmAbout.resources
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\Ribbonpad.frmDocument.resources
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\Ribbonpad.frmMain.resources
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\Ribbonpad.Properties.Resources.resources
+C:\Users\Shree\Desktop\Universal Editor\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+H:\Universal\obj\Debug\ResolveAssemblyReference.cache
+H:\Universal\obj\Debug\Ribbonpad.BalloonSearch.resources
+H:\Universal\obj\Debug\Ribbonpad.ColorPicker.resources
+H:\Universal\obj\Debug\Ribbonpad.frmAbout.resources
+H:\Universal\obj\Debug\Ribbonpad.frmDocument.resources
+H:\Universal\obj\Debug\Ribbonpad.frmMain.resources
+H:\Universal\obj\Debug\Ribbonpad.Properties.Resources.resources
+H:\Universal\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\Universal\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\Universal\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\Universal\obj\Debug\Ribbonpad.frmAbout.resources
+D:\Universal\obj\Debug\Ribbonpad.frmDocument.resources
+D:\Universal\obj\Debug\Ribbonpad.frmMain.resources
+D:\Universal\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\Universal\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\Universal\bin\Debug\RibbonPad.exe
+D:\Universal\bin\Debug\RibbonPad.pdb
+D:\Universal\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Universal\obj\Debug\RibbonPad.exe
+D:\Universal\obj\Debug\RibbonPad.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\RibbonPad.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\RibbonPad.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal\bin\Debug\RibbonPad.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal\bin\Debug\RibbonPad.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\Ribbonpad.frmAbout.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\Ribbonpad.frmDocument.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\Ribbonpad.frmMain.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\RichTextEditor.frmFind.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\RichTextEditor.frmReplace.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\obj\Debug\RichTextEditor.frmMainRTE.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal\bin\Debug\ExtendedRichTextBox.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\RibbonPad.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\RibbonPad.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmAbout.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmDocument.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmMain.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\RibbonPad.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\RibbonPad.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\ExtendedRichTextBox.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmReplace.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmFind.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\Gios Pdf.NET.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\PDFViewerresources.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Universal Editor\Universal Edit\obj\Debug\RibbonPad.exe
+D:\Universal Editor\Universal Edit\obj\Debug\RibbonPad.pdb
+D:\Universal Editor\Universal Edit\bin\Debug\RibbonPad.exe
+D:\Universal Editor\Universal Edit\bin\Debug\RibbonPad.pdb
+D:\Universal Editor\Universal Edit\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Universal Editor\Universal Edit\bin\Debug\ExtendedRichTextBox.dll
+D:\Universal Editor\Universal Edit\bin\Debug\Gios Pdf.NET.dll
+D:\Universal Editor\Universal Edit\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Universal Editor\Universal Edit\bin\Debug\PDFViewerresources.dll
+D:\Universal Editor\Universal Edit\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmAbout.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmDocument.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmFind.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmMain.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.frmReplace.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\Universal Editor\Universal Edit\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\Interop.SHDocVw.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\TabStrip.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\RibbonPad.exe.config
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\DirectShow.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.App.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.Core.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.Spider.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.Extension.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\Interop.QuartzTypeLib.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.Core.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.Spider.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.Extension.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\DirectShow.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.App.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\unregister.reg
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\register.reg
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\unregister.bat
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\register.bat
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.IEPlugin.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.Tests.dll
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\MyDownloader.Tests.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\NLSFT_WB.exe
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\NLSFT_WB.pdb
+D:\VISHAL BHOSALE\Universal Editor\Universal Edit\bin\Debug\NLSFT_WB.xml
+D:\Universal Edit\bin\Debug\unregister.reg
+D:\Universal Edit\bin\Debug\register.reg
+D:\Universal Edit\bin\Debug\unregister.bat
+D:\Universal Edit\bin\Debug\register.bat
+D:\Universal Edit\bin\Debug\RibbonPad.exe.config
+D:\Universal Edit\bin\Debug\RibbonPad.exe
+D:\Universal Edit\bin\Debug\RibbonPad.pdb
+D:\Universal Edit\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Universal Edit\bin\Debug\DirectShow.exe
+D:\Universal Edit\bin\Debug\ExtendedRichTextBox.dll
+D:\Universal Edit\bin\Debug\Gios Pdf.NET.dll
+D:\Universal Edit\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Universal Edit\bin\Debug\Interop.SHDocVw.dll
+D:\Universal Edit\bin\Debug\MyDownloader.App.exe
+D:\Universal Edit\bin\Debug\MyDownloader.Core.dll
+D:\Universal Edit\bin\Debug\MyDownloader.Extension.dll
+D:\Universal Edit\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Universal Edit\bin\Debug\MyDownloader.Spider.dll
+D:\Universal Edit\bin\Debug\MyDownloader.Tests.dll
+D:\Universal Edit\bin\Debug\NLSFT_WB.exe
+D:\Universal Edit\bin\Debug\PDFViewerresources.dll
+D:\Universal Edit\bin\Debug\Rapid.WinClientBase.dll
+D:\Universal Edit\bin\Debug\TabStrip.dll
+D:\Universal Edit\bin\Debug\Csla.dll
+D:\Universal Edit\bin\Debug\Interop.QuartzTypeLib.dll
+D:\Universal Edit\bin\Debug\Skybound.VisualTips.dll
+D:\Universal Edit\bin\Debug\ArchonBase.dll
+D:\Universal Edit\bin\Debug\DirectShow.pdb
+D:\Universal Edit\bin\Debug\NLSFT_WB.pdb
+D:\Universal Edit\bin\Debug\NLSFT_WB.xml
+D:\Universal Edit\bin\Debug\MyDownloader.Extension.pdb
+D:\Universal Edit\bin\Debug\MyDownloader.App.pdb
+D:\Universal Edit\bin\Debug\MyDownloader.Spider.pdb
+D:\Universal Edit\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Universal Edit\bin\Debug\MyDownloader.Core.pdb
+D:\Universal Edit\bin\Debug\MyDownloader.Tests.pdb
+D:\Universal Edit\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Edit\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.Form1.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.frmAbout.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.frmDocument.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.frmFind.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.frmMain.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.frmReplace.resources
+D:\Universal Edit\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\Universal Edit\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\Universal Edit\obj\Debug\RibbonPad.exe
+D:\Universal Edit\obj\Debug\RibbonPad.pdb
+D:\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe.config
+D:\Universal Editor 31.1.12\bin\Debug\unregister.reg
+D:\Universal Editor 31.1.12\bin\Debug\register.reg
+D:\Universal Editor 31.1.12\bin\Debug\unregister.bat
+D:\Universal Editor 31.1.12\bin\Debug\register.bat
+D:\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe
+D:\Universal Editor 31.1.12\bin\Debug\Universal_Editor.pdb
+D:\Universal Editor 31.1.12\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Universal Editor 31.1.12\bin\Debug\DirectShow.exe
+D:\Universal Editor 31.1.12\bin\Debug\ExtendedRichTextBox.dll
+D:\Universal Editor 31.1.12\bin\Debug\Gios Pdf.NET.dll
+D:\Universal Editor 31.1.12\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Universal Editor 31.1.12\bin\Debug\Interop.SHDocVw.dll
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.exe
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.dll
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.dll
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.dll
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.dll
+D:\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.exe
+D:\Universal Editor 31.1.12\bin\Debug\PDFViewerresources.dll
+D:\Universal Editor 31.1.12\bin\Debug\Rapid.WinClientBase.dll
+D:\Universal Editor 31.1.12\bin\Debug\TabStrip.dll
+D:\Universal Editor 31.1.12\bin\Debug\Csla.dll
+D:\Universal Editor 31.1.12\bin\Debug\Interop.QuartzTypeLib.dll
+D:\Universal Editor 31.1.12\bin\Debug\Skybound.VisualTips.dll
+D:\Universal Editor 31.1.12\bin\Debug\ArchonBase.dll
+D:\Universal Editor 31.1.12\bin\Debug\DirectShow.pdb
+D:\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.pdb
+D:\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.xml
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.pdb
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.pdb
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.pdb
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.pdb
+D:\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.pdb
+D:\Universal Editor 31.1.12\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Form1.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmAbout.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmDocument.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmFind.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMain.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmReplace.resources
+D:\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\Universal Editor 31.1.12\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\Universal Editor 31.1.12\obj\Debug\Universal_Editor.exe
+D:\Universal Editor 31.1.12\obj\Debug\Universal_Editor.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe.config
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\ResolveAssemblyReference.cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.BalloonSearch.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.ColorPicker.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Form1.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmAbout.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmDocument.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmFind.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMain.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMainRTE.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmPDFViewer.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmReplace.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Properties.Resources.resources
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\unregister.reg
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\register.reg
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\unregister.bat
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\register.bat
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\DevComponents.DotNetBar2.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\ExtendedRichTextBox.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\Gios Pdf.NET.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\Interop.SHDocVw.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\PDFViewerresources.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\Rapid.WinClientBase.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\TabStrip.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\zMoviePlayer.exe
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\Skybound.VisualTips.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\Csla.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\ArchonBase.dll
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.xml
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\zMoviePlayer.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.pdb
+C:\NELSOFT\PROJECTS STUDENT\2011-2012\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe.config
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.exe
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\unregister.reg
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\register.reg
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\unregister.bat
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\register.bat
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\ExtendedRichTextBox.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\Gios Pdf.NET.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\Interop.SHDocVw.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.exe
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.exe
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\PDFViewerresources.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\TabStrip.dll
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.xml
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.pdb
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Form1.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmAbout.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmDocument.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmFind.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMain.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmReplace.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe.config
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\unregister.reg
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\register.bat
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\register.reg
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\unregister.bat
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\ExtendedRichTextBox.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\Gios Pdf.NET.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\Interop.SHDocVw.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\PDFViewerresources.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\TabStrip.dll
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\zMoviePlayer.exe
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.xml
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\zMoviePlayer.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.pdb
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\ResolveAssemblyReference.cache
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Form1.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmAbout.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmDocument.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmFind.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMain.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmReplace.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\NELSOFT\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Office\Universal Editor 31.1.12\bin\Debug\PDFLibNet.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe.config
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.exe
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\unregister.reg
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\register.reg
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\unregister.bat
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\register.bat
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\ExtendedRichTextBox.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\Gios Pdf.NET.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.exe
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.exe
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\PDFLibNet.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\PDFViewerresources.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\TabStrip.dll
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.xml
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.pdb
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.BalloonSearch.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.ColorPicker.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Form1.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmAbout.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmDocument.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmFind.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMain.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMainRTE.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmPDFViewer.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmReplace.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Properties.Resources.resources
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+C:\Users\Ganesh\Desktop\Universal Office\Universal Office\Universal Office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.CcreatePDF.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe.config
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Universal_Editor.exe
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Universal_Editor.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\register.reg
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\unregister.bat
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\register.bat
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\unregister.reg
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\Universal_Editor.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\ExtendedRichTextBox.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\Gios Pdf.NET.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\Interop.SHDocVw.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.exe
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.exe
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\PDFLibNet.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\PDFViewerresources.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\TabStrip.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.xml
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.pdb
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\ResolveAssemblyReference.cache
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.CcreatePDF.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Form1.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmAbout.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmDocument.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmFind.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMain.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmReplace.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\DevComponents.Instrumentation.dll
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\ChatClient.exe
+D:\VISHAL BHOSALE\Universal Editor 31.1.12\bin\Debug\ChatClient.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\unregister.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\register.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\unregister.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\register.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe.config
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\Universal_Editor.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\ChatClient.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\ExtendedRichTextBox.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\Gios Pdf.NET.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\Interop.SHDocVw.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\PDFLibNet.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\PDFViewerresources.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\TabStrip.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\ChatClient.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.xml
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.CcreatePDF.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Form1.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmAbout.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmDocument.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmFind.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMain.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmReplace.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Universal_Editor.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 12 3 2012\Universal Editor 31.1.12\obj\Debug\Universal_Editor.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe.config
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\unregister.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\register.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\unregister.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\register.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\Universal_Editor.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\ChatClient.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\ExtendedRichTextBox.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\Gios Pdf.NET.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\Interop.SHDocVw.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\PDFLibNet.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\PDFViewerresources.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\TabStrip.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\ChatClient.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\NLSFT_WB.xml
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Extension.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Spider.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Core.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\bin\Debug\MyDownloader.Tests.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.CcreatePDF.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Form1.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmAbout.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmDocument.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmFind.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMain.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.frmReplace.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\Universal Editor 31.1.12\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\Universal_Editor.exe.config
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Universal_Editor.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Universal_Editor.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\unregister.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\register.reg
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\unregister.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\register.bat
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\Universal_Editor.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\Universal_Editor.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\ChatClient.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\DevComponents.Instrumentation.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\ExtendedRichTextBox.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\Gios Pdf.NET.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\Interop.SHDocVw.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.App.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.Core.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.Extension.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.IEPlugin.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.Spider.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.Tests.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\NLSFT_WB.exe
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\PDFLibNet.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\PDFViewerresources.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\TabStrip.dll
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\ChatClient.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\NLSFT_WB.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\NLSFT_WB.xml
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.Extension.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.App.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.Spider.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.IEPlugin.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.Core.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\bin\Debug\MyDownloader.Tests.pdb
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\ResolveAssemblyReference.cache
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.BalloonSearch.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.CcreatePDF.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.ColorPicker.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.Form1.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.frmAbout.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.frmDocument.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.frmFind.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.frmMain.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.frmMainRTE.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.frmPDFViewer.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.frmReplace.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Ribbonpad.Properties.Resources.resources
+D:\Nilesh\nilesh\universal_office-2014-09-23\universal office\New Edited Shree\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+C:\Users\SHREE\Desktop\New folder\bin\Debug\Universal_Editor.exe.config
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Universal_Editor.exe
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Universal_Editor.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\unregister.reg
+C:\Users\SHREE\Desktop\New folder\bin\Debug\register.reg
+C:\Users\SHREE\Desktop\New folder\bin\Debug\unregister.bat
+C:\Users\SHREE\Desktop\New folder\bin\Debug\register.bat
+C:\Users\SHREE\Desktop\New folder\bin\Debug\Universal_Editor.exe
+C:\Users\SHREE\Desktop\New folder\bin\Debug\Universal_Editor.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\ChatClient.exe
+C:\Users\SHREE\Desktop\New folder\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\ExtendedRichTextBox.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\Gios Pdf.NET.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\Interop.SHDocVw.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.App.exe
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.Core.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.Extension.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.IEPlugin.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.Spider.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.Tests.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\NLSFT_WB.exe
+C:\Users\SHREE\Desktop\New folder\bin\Debug\PDFLibNet.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\PDFViewerresources.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\TabStrip.dll
+C:\Users\SHREE\Desktop\New folder\bin\Debug\ChatClient.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\NLSFT_WB.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\NLSFT_WB.xml
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.App.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.Spider.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.Core.pdb
+C:\Users\SHREE\Desktop\New folder\bin\Debug\MyDownloader.Tests.pdb
+C:\Users\SHREE\Desktop\New folder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.BalloonSearch.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.CcreatePDF.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.ColorPicker.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.Form1.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.frmAbout.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.frmDocument.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.frmFind.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.frmMain.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.frmMainRTE.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.frmPDFViewer.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.frmReplace.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Ribbonpad.Properties.Resources.resources
+C:\Users\SHREE\Desktop\New folder\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\Universal_Editor.exe.config
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Universal_Editor.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Universal_Editor.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\unregister.reg
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\register.reg
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\unregister.bat
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\register.bat
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\Universal_Editor.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\Universal_Editor.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\ChatClient.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\ExtendedRichTextBox.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\Gios Pdf.NET.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.App.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.Core.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.Extension.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.IEPlugin.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.Spider.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.Tests.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\NLSFT_WB.exe
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\PDFLibNet.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\PDFViewerresources.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\TabStrip.dll
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\ChatClient.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\NLSFT_WB.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\NLSFT_WB.xml
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.App.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.Spider.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.IEPlugin.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.Core.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\bin\Debug\MyDownloader.Tests.pdb
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.BalloonSearch.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.CcreatePDF.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.ColorPicker.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.Form1.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.frmAbout.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.frmDocument.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.frmFind.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.frmMain.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.frmMainRTE.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.frmPDFViewer.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.frmReplace.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Ribbonpad.Properties.Resources.resources
+C:\Users\Gopal\Desktop\New folder\Final Without Calculator\Final Without Calculator\obj\Debug\Universal_Editor.csproj.GenerateResource.Cache

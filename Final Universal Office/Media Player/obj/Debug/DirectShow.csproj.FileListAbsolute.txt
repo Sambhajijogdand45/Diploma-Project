@@ -1,0 +1,27 @@
+D:\Universal Editor\Media Player\bin\Debug\DirectShow.exe
+D:\Universal Editor\Media Player\bin\Debug\DirectShow.pdb
+D:\Universal Editor\Media Player\bin\Debug\Interop.QuartzTypeLib.dll
+D:\Universal Editor\Media Player\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Editor\Media Player\obj\Debug\DirectShow.Form1.resources
+D:\Universal Editor\Media Player\obj\Debug\DirectShow.Form2.resources
+D:\Universal Editor\Media Player\obj\Debug\DirectShow.csproj.GenerateResource.Cache
+D:\Universal Editor\Media Player\obj\Debug\DirectShow.exe
+D:\Universal Editor\Media Player\obj\Debug\DirectShow.pdb
+D:\Universal Edit\Media Player\bin\Debug\DirectShow.exe
+D:\Universal Edit\Media Player\bin\Debug\DirectShow.pdb
+D:\Universal Edit\Media Player\bin\Debug\Interop.QuartzTypeLib.dll
+D:\Universal Edit\Media Player\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Edit\Media Player\obj\Debug\DirectShow.Form1.resources
+D:\Universal Edit\Media Player\obj\Debug\DirectShow.Form2.resources
+D:\Universal Edit\Media Player\obj\Debug\DirectShow.csproj.GenerateResource.Cache
+D:\Universal Edit\Media Player\obj\Debug\DirectShow.exe
+D:\Universal Edit\Media Player\obj\Debug\DirectShow.pdb
+D:\Universal Editor 31.1.12\Media Player\bin\Debug\DirectShow.exe
+D:\Universal Editor 31.1.12\Media Player\bin\Debug\DirectShow.pdb
+D:\Universal Editor 31.1.12\Media Player\bin\Debug\Interop.QuartzTypeLib.dll
+D:\Universal Editor 31.1.12\Media Player\obj\Debug\ResolveAssemblyReference.cache
+D:\Universal Editor 31.1.12\Media Player\obj\Debug\DirectShow.Form1.resources
+D:\Universal Editor 31.1.12\Media Player\obj\Debug\DirectShow.Form2.resources
+D:\Universal Editor 31.1.12\Media Player\obj\Debug\DirectShow.csproj.GenerateResource.Cache
+D:\Universal Editor 31.1.12\Media Player\obj\Debug\DirectShow.exe
+D:\Universal Editor 31.1.12\Media Player\obj\Debug\DirectShow.pdb
